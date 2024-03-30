@@ -2,7 +2,7 @@
 
 <h3 align="center"> I'm a passionate Computer Science student </h3>
 
-<img align="right" alt="top-langauges" src="https://github-readme-stats.vercel.app/api/top-langs?username=limo01&show_icons=true&locale=en&layout=compact&theme=dracula" />
+<img align="right" alt="top-langauges" src="https://github-readme-stats.vercel.app/api/top-langs?username=DeAnd02&show_icons=true&locale=en&layout=compact&theme=dracula" />
 <br>
 
 - 🏃‍♂️ I’m a track and field athlete and certified coach
