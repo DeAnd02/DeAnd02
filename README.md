@@ -8,8 +8,8 @@
 - 🏃‍♂️ I’m a track and field athlete and certified coach
 - 🌱 I’m currently learning Computer Science
 - 👯 I’m looking to collaborate on stimulating projects
-- ⚡ 2024 goals: Learn more about Machine Learning and AI
-- 🖥️ Currently doing an internship at National research center in Bologna (Italy)
+- ⚡ 2025 goals: Create more applications in the Machine Learning and AI field
+- 🖥️ Did an internship at National research center in Bologna (Italy)
 
 ### Languages and Tools: ###
 
